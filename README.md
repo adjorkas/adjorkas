@@ -1,4 +1,4 @@
-Hi, I’m Lu. I'm studying biotechnology and learning the basics of coding. 🌱 
+Hello, I’m Lu! I'm studying biotechnology and learning the basics of coding. 🌱 
 
 <!---
 adjorkas/adjorkas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
