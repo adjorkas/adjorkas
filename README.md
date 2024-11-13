@@ -1,4 +1,4 @@
-Hello, I’m Lu! I'm studying biotechnology and learning the basics of coding. 🌱 
+Hello, I'm Lu! I'm a Bioinformatics enthusiast from Buenos Aires, Argentina. 💻🧬
 
 <!---
 adjorkas/adjorkas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
